@@ -1,0 +1,22 @@
+{
+    "pubmed": {
+        "startOfRow": "Testing",
+        "url": "/testing/query.html?db=pubmed",
+        "host": "unnameable.sytems",
+        "version": "Alpha",
+        "name": "Flask 1"
+    },
+    "twitter": {
+        "url": "/testing/query.html?db=twitter",
+        "host": "xn--d-toa.fi",
+        "version": "Beta",
+        "name": "Flask 2"
+    },
+    "adhoc": {
+        "url": "/testing/query.html?db=adhoc",
+        "host": "xn--d-toa.fi:5002",
+        "name": "Flask 3",
+        "version": "Testing",
+        "open": true
+    }
+}
